@@ -1,1 +1,1 @@
-<?php include_once("shosh.html"); ?>
+<?php include_once("index.html"); ?>
